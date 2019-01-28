@@ -8,7 +8,7 @@ public class HelloWorld {
 	}
 
 	public static String hello() {
-		//hellotest
+		//hellotest2
 		String hello = "Hello to all the World!\n";		
 		hello=hello+System.getProperty("os.name");		
 		return hello;
